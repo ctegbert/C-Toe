@@ -1,0 +1,15 @@
+/Users/ctegbert/Desktop/C-Toe/C-Toe/bin/Debug/net8.0/C-Toe
+/Users/ctegbert/Desktop/C-Toe/C-Toe/bin/Debug/net8.0/C-Toe.deps.json
+/Users/ctegbert/Desktop/C-Toe/C-Toe/bin/Debug/net8.0/C-Toe.runtimeconfig.json
+/Users/ctegbert/Desktop/C-Toe/C-Toe/bin/Debug/net8.0/C-Toe.dll
+/Users/ctegbert/Desktop/C-Toe/C-Toe/bin/Debug/net8.0/C-Toe.pdb
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/C-Toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/C-Toe.AssemblyInfoInputs.cache
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/C-Toe.AssemblyInfo.cs
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/C-Toe.csproj.CoreCompileInputs.cache
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/C-Toe.sourcelink.json
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/C-Toe.dll
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/refint/C-Toe.dll
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/C-Toe.pdb
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/C-Toe.genruntimeconfig.cache
+/Users/ctegbert/Desktop/C-Toe/C-Toe/obj/Debug/net8.0/ref/C-Toe.dll
